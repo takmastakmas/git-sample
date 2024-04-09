@@ -6,3 +6,5 @@ hello
 123456
 
 update
+
+latest
